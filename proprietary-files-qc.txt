@@ -22,6 +22,11 @@ vendor/lib/rfsa/adsp/libdspCV_skel.so
 vendor/lib/rfsa/adsp/libfastcvadsp.so
 vendor/lib/rfsa/adsp/libfastcvadsp_skel.so
 
+# Dirac
+vendor/etc/diracmobile.config
+vendor/lib/libDiracAPI_SHARED.so
+vendor/lib/soundfx/libdirac.so
+
 # Alarm - from TA-1024
 -framework/vendor.qti.hardware.alarm-V1.0-java.jar
 -vendor/app/PowerOffAlarm/PowerOffAlarm.apk
